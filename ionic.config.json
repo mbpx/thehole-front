@@ -1,0 +1,7 @@
+{
+  "name": "thehole-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
